@@ -1,0 +1,159 @@
+/* .item{
+    float: right;
+} */
+.custom-column-one{
+    background-image: url('images/download\ \(1\).jpeg');
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    color:white;
+    height:300px; 
+    /* height is 300px */
+    
+}
+.card-title{
+    margin-top: auto;
+    align-items: flex-end;
+}
+.custom-card-one{
+    background-image: url("images/download\ \(2\).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    font-size: 25px;
+    color: white;
+}
+.custom-card-two{
+    background-image: url("images/images\ \(1\).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    font-size: 25px;
+    color: white;
+}
+h5{
+    color: white;
+    background-color:orangered;
+    padding-left: 100px;
+    padding:5px;
+}
+h3{
+    color: black;
+    background-color: bisque;
+    padding-left: 100px;
+}
+
+li a{
+    color: gray;
+}
+#bood{
+color: gray;
+}
+#cool{
+    background-image: url("images/IMG-20201223-WA0088.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    color: white;
+    height:260px;
+    
+
+}
+#woah{
+    color: orangered;
+}
+#mouse{
+    color: orangered;
+    font-size: 30px;
+}
+#ooh{
+    float: right;
+    color: orangered;
+    font-size: 15px;
+}
+#Lates-Funding{
+    color: orangered;
+}
+/* .google{
+  margin-top: 100px; 
+  font-size: 20px;
+} */
+.image{
+    background-image: url("images/poop/download\ \(3\).jpeg");
+    background-repeat: no repeat;
+width: 350px;
+height: 250px;
+color: white;
+}
+#mom{
+    background-image: url("images/thenextweb-press.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    font-size: 15px;
+    color: white;
+    
+}
+#sara{
+    float: right;
+}
+#roy{
+    color: orangered;
+    font-size: 15px;
+}
+#map{
+    float: right;
+}
+
+
+#you{
+background-image: url("images/poop/image-4");
+background-repeat: no repeat;
+width: 350px;
+height: 250px;
+color: white;
+
+}
+.hubby{
+  margin-top: 30px;
+  padding: 20px;
+  background-color: rgb(32, 30, 30);  
+}
+.NO{
+color: white;
+ background-color: black;
+ padding: 10px;
+ text-align: center; 
+ color:white; 
+}
+.word{
+color: black;
+font-size: 20px;
+}
+div img{
+    margin-left: 50px;
+}
+/* p{
+    margin-left: 50px;
+} */
+
+.tree{
+    margin-left: 50px;
+}
+.main{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+    
+ #hot{
+      background-image: url("images/poop/The-Next-Web-2017-Day-One-Image-copyright-Dan-Taylor-dan@dantaylorphotography.com-43.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 250px;
+      font-size: 15px;
+      color: white;
+
+ } 
+ #customer{
+     color: orangered;
+ }  
+
